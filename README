@@ -1,0 +1,13 @@
+
+Convert csv to plist file.
+
+Usage:
+ ./make_plist.rb -t sample.csv
+
+ Options
+   -t :there is a data type
+
+   -d :tab separated") do |dt|
+
+   -o [FILE] :output to file
+
